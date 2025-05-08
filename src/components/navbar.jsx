@@ -12,11 +12,11 @@ const Navbar = () => {
         <NavLink to={"/"} className={" btn btn-ghost btn-sm"}>
           <BsHouseFill /> Home
         </NavLink>
-        <NavLink to={"/"} className={" btn btn-ghost btn-sm"}>
-          <BsFillPeopleFill  /> Home
+        <NavLink to={"/about"} className={" btn btn-ghost btn-sm"}>
+          <BsFillPeopleFill  /> About
         </NavLink>
-        <NavLink to={"/"} className={" btn btn-ghost btn-sm"}>
-          <MdOutlineContacts /> Home
+        <NavLink to={"/contact"} className={" btn btn-ghost btn-sm"}>
+          <MdOutlineContacts /> Contact
         </NavLink>
       </div>
     </nav>

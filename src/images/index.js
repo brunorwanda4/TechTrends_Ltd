@@ -1,0 +1,1 @@
+export const homeImage = "https://img.freepik.com/free-photo/technology-innovation-simulation-gadget-concept_53876-121153.jpg"
